@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harshit-portfolio/static/css/main.42281cdd.css",
+    "main.js": "/harshit-portfolio/static/js/main.7f3f4857.js",
+    "index.html": "/harshit-portfolio/index.html",
+    "main.42281cdd.css.map": "/harshit-portfolio/static/css/main.42281cdd.css.map",
+    "main.7f3f4857.js.map": "/harshit-portfolio/static/js/main.7f3f4857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42281cdd.css",
+    "static/js/main.7f3f4857.js"
+  ]
+}
